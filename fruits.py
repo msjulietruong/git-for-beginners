@@ -1,1 +1,1 @@
-fruits = ['lychee', 'orange', 'strawberry']
+fruits = ['lychee', 'orange', 'strawberry', 'tomato']
